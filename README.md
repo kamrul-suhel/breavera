@@ -20,7 +20,7 @@ styles/components/home_page_three_column_item.scss
 
 ## Dynamic uploaded file
 We need to upload some file into files folder which is dynamic.
-You can find the [file here]('/content/files.rar')
+You can find the [file here](/content/files.rar)
 ```
 /content/files.rar
 ```
